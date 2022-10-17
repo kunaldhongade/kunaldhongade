@@ -12,7 +12,7 @@
  <img
           align="center"
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-          alt="shahane806"
+          alt="insta"
           height="30"
           width="40"
           />
@@ -21,7 +21,7 @@
  <img
           align="center"
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg"
-          alt="coderops"
+          alt="linkedin"
           height="30"
           width="40"
           />
@@ -30,7 +30,7 @@
  <img
           align="center"
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-          alt="coderops"
+          alt="facebook"
           height="30"
           width="40"
           />
@@ -39,7 +39,7 @@
 <img
           align="center"
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-          alt="coderops"
+          alt="twitter"
           height="30"
           width="40"
 /></a>
