@@ -14,10 +14,9 @@
 
 </p>
 
-
 <br>![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=kunaldhongade.visitor-badge)
 
-# ![kunaldhongade's github stats](https://github-readme-stats.vercel.app/api?username=kunaldhongade&theme=omni&show_icons=true)<br>
+# ![kunaldhongade's github stats](https://github-readme-stats.vercel.app/api?username=kunaldhongade&theme=omni&show_icons=true)
 
 **<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldhongade&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />**
 
