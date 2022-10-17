@@ -1,50 +1,17 @@
-## I'm Kunal Dhongade   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h1 align="center">Hi 👋, I'm Kunal dhongade</h1>
+<h3 align="center">A passionate Blockchain developer from India</h3>
 
-## Welcome to my profile !
-
-### Connect with me:
- <div class="Connect_With_Me">
-
-        
-<h3 align="left">Connect with me:</h3>
+ <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/kunaldhongade99" target="blank">
- <img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-          alt="insta"
-          height="30"
-          width="40"
-          />
- </a>
- <a href="https://www.linkedin.com/in/kunaldhongade/" target="blank">
- <img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg"
-          alt="linkedin"
-          height="30"
-          width="40"
-          />
-</a>          
-<a href="https://www.facebook.com/kunaldhongade99/" target="blank">
- <img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-          alt="facebook"
-          height="30"
-          width="40"
-          />
-</a>    
-<a href="https://www.twitter.com/kunaldhongade/" target="blank">
-<img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-          alt="twitter"
-          height="30"
-          width="40"
-/></a>
-        </p>
-</div>
+<a href="https://dev.to/kunaldhongade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kunaldhongade" height="30" width="40" /></a>
+<a href="https://twitter.com/kunaldhongade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunaldhongade" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kunaldhongade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunaldhongade" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/kunaldhongade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kunaldhongade" height="30" width="40" /></a>
+<a href="https://fb.com/kunaldhongade99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kunaldhongade99" height="30" width="40" /></a>
+<a href="https://instagram.com/kunaldhongade99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunaldhongade99" height="30" width="40" /></a>
+<a href="https://www.behance.net/kunaldhongade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kunaldhongade" height="30" width="40" /></a>
+<a href="https://medium.com/kunaldhongade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kunaldhongade" height="30" width="40" /></a>
+</p>
 
 <br>![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=kunaldhongade.visitor-badge)
 
