@@ -19,7 +19,13 @@
 # ![kunaldhongade's github stats](https://github-readme-stats.vercel.app/api?username=kunaldhongade&theme=omni&show_icons=true)
 
 **<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldhongade&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />**
+--- 
 
+### 🚀 Contribution Graph :
+
+[![Shehroz github activity graph](https://activity-graph.herokuapp.com/graph?username=ShehrozIrfan&theme=react-dark)](https://github.com/shehrozirfan/github-readme-activity-graph)
+
+---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunaldhongade" alt="kunaldhongade" /></a> </p>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
