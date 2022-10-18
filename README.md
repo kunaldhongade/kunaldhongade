@@ -16,20 +16,13 @@
 
 <br>![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=kunaldhongade.visitor-badge)
 
---- 
-
-### 🚀 Contribution Graph :
-
-[![KunalDhongade's github activity graph](https://activity-graph.herokuapp.com/graph?username=kunaldhongade&theme=react-dark)](https://github.com/kunaldhongade/github-readme-activity-graph)
-
----
 
 **<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldhongade&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />**
 --- 
 
 ### 🚀 Contribution Graph :
 
-[![KunalDhongade github activity graph](https://activity-graph.herokuapp.com/graph?username=kunaldhonagade&theme=react-dark)](https://github.com/kunaldhongade/github-readme-activity-graph)
+[![KunalDhongade's github activity graph](https://activity-graph.herokuapp.com/graph?username=kunaldhongade&theme=react-dark)](https://github.com/kunaldhongade/github-readme-activity-graph)
 
 ---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunaldhongade" alt="kunaldhongade" /></a> </p>
