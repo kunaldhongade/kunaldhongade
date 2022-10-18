@@ -20,21 +20,21 @@
 <br>![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=kunaldhongade.visitor-badge)
 
 
-<div style="display: flex, justify-content: space-between">
+
  
 # ![kunaldhongade's github stats](https://github-readme-stats.vercel.app/api?username=kunaldhongade&theme=omni&show_icons=true)
 
 
 **<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldhongade&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />**
 --- 
-</div>
+
 ### 🚀 Contribution Graph :
 
-<div align="center" style="justify-content: space-between">
+
 [![KunalDhongade's github activity graph](https://activity-graph.herokuapp.com/graph?username=kunaldhongade&theme=react-dark)](https://github.com/kunaldhongade/github-readme-activity-graph)
-<div>
+
 ---
-<p align="left" style="display: flex, justify-content: space-between"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunaldhongade" alt="kunaldhongade" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunaldhongade" alt="kunaldhongade" /></a> </p>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
