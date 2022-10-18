@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Blockchain developer from India</h3>
 <h3 align="left">Connect with me:</h3>
 
-<div>
+<div align="center">
 <p align="left">
 <a href="https://twitter.com/kunaldhongade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunaldhongade" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kunaldhongade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunaldhongade" height="30" width="40" /></a>
@@ -18,7 +18,10 @@
 </div>
 
 <br>![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=kunaldhongade.visitor-badge)
+
+
 <div style="display: flex, justify-content: space-between">
+ 
 # ![kunaldhongade's github stats](https://github-readme-stats.vercel.app/api?username=kunaldhongade&theme=omni&show_icons=true)
 
 
@@ -27,8 +30,9 @@
 </div>
 ### 🚀 Contribution Graph :
 
+<div align="center" style="justify-content: space-between">
 [![KunalDhongade's github activity graph](https://activity-graph.herokuapp.com/graph?username=kunaldhongade&theme=react-dark)](https://github.com/kunaldhongade/github-readme-activity-graph)
-
+<div>
 ---
 <p align="left" style="display: flex, justify-content: space-between"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunaldhongade" alt="kunaldhongade" /></a> </p>
 
