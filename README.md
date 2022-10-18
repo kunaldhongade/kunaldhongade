@@ -23,7 +23,7 @@
 
 ### 🚀 Contribution Graph :
 
-[![Shehroz github activity graph](https://activity-graph.herokuapp.com/graph?username=ShehrozIrfan&theme=react-dark)](https://github.com/shehrozirfan/github-readme-activity-graph)
+[![KunalDhongade github activity graph](https://activity-graph.herokuapp.com/graph?username=kunaldhonagade&theme=react-dark)](https://github.com/kunaldhongade/github-readme-activity-graph)
 
 ---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunaldhongade" alt="kunaldhongade" /></a> </p>
