@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<div align="center">
+<div align="center" >
 <p align="left">
 <a href="https://twitter.com/kunaldhongade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunaldhongade" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kunaldhongade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunaldhongade" height="30" width="40" /></a>
@@ -27,11 +27,14 @@
 
 ### :fire: GitHub Analytics :
 --- 
+
+<img display="flex" align="right" src="https://media.giphy.com/media/iTJ5oiQuOnHGIUtvDc/giphy.gif">
+
 <img src="https://github-readme-stats.vercel.app/api?username=kunaldhongade&layout=compact&theme=vision-friendly-dark&show_icons=true"/>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldhongade&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kunaldhongade&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldhongade&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 --- 
 
@@ -41,7 +44,7 @@
 [![KunalDhongade's github activity graph](https://activity-graph.herokuapp.com/graph?username=kunaldhongade&theme=react-dark)](https://github.com/kunaldhongade/github-readme-activity-graph)
 
 ---
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?kunaldhongade=ryo-ma&theme=darkhub" alt="kunaldhongade" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunaldhongade&theme=darkhub" alt="kunaldhongade" /></a> </p>
  
 --- 
  
