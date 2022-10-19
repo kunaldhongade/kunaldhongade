@@ -28,10 +28,10 @@
 ### :fire: GitHub Analytics :
 --- 
 
-<img display="flex" align="right" src="https://media.giphy.com/media/iTJ5oiQuOnHGIUtvDc/giphy.gif">
+<img display="flex" align="right" width="30%" src="https://github.com/kunaldhongade/kunaldhongade/blob/main/Blue_Ethereum.png"> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=kunaldhongade&layout=compact&theme=vision-friendly-dark&show_icons=true"/>
- 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldhongade&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kunaldhongade&theme=dark)](https://git.io/streak-stats)
