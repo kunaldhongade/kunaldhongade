@@ -32,7 +32,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldhongade&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kunaldhongade&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kunaldhongade&theme=highcontrast)](https://git.io/streak-stats)
 
 --- 
 
