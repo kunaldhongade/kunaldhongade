@@ -1,4 +1,4 @@
-<img width= 100% src="https://www.allthingsdistributed.com/images/blockchain-banner.jpg">
+<a href="https://kunaldhongade.vercel.app/"><img width= 100% src="https://github.com/kunaldhongade/kunaldhongade/blob/main/NewGithubBanner.png"></a>
 <h1 align="center">Hi 👋, I'm Kunal Dhongade</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
 
