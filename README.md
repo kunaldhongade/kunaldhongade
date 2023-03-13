@@ -1,6 +1,4 @@
 <img width= 100% src="https://pbs.twimg.com/profile_banners/1212696301181136898/1675365272/1500x500">
-<h1 align="center">Hi 👋, I'm Kunal Dhongade</h1>
-<h3 align="center">A passionate Blockchain developer from India</h3>
 
 <!-- A boy with laptop image -->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
