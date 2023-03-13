@@ -1,4 +1,4 @@
-<img width= 100% src="https://twitter.com/KunalDhongade/status/1621222450473369601/photo/1.png">
+<img width= 100% src="https://pbs.twimg.com/profile_banners/1212696301181136898/1675365272/1500x500">
 <h1 align="center">Hi 👋, I'm Kunal Dhongade</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
 
