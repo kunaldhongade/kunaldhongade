@@ -1,5 +1,6 @@
 <!--<img width= 100% src="https://pbs.twimg.com/profile_banners/1212696301181136898/1675365272/1500x500">-->
-<img width= 100% src="https://www.emilywrites.co.nz/wp-content/uploads/2018/08/Hire-Me-768x370.png">
+<!--<img width= 100% src="https://www.emilywrites.co.nz/wp-content/uploads/2018/08/Hire-Me-768x370.png">-->
+<img width= 100% src="https://github.com/kunaldhongade/kunaldhongade/blob/main/hireme.jpg">
 
 # 💫 About Me:
 Kunal Dhongade is a blockchain developer specializing in the development of smart contracts and decentralized applications on the Ethereum blockchain. My experience lies in Solidity programming, Ethers.js, Hardhat, and related tools and libraries. I have experience in developing D Apps for a variety of industries, including finance, healthcare, and gaming. Additionally, I have experience in creating, deploying, and managing token-based crowdfunding systems. I am also knowledgeable in cryptography, consensus mechanisms, and distributed ledger technologies. I have a passion for blockchain technology, and I am always looking for new challenges.
