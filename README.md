@@ -3,7 +3,7 @@
 <img width= 100% src="https://github.com/kunaldhongade/kunaldhongade/blob/main/hireme.jpg">
 
 # 💫 About Me:
-Kunal Dhongade is a blockchain developer specializing in the development of smart contracts and decentralized applications on the Ethereum blockchain. My experience lies in Solidity programming, Ethers.js, Hardhat, and related tools and libraries. I have experience in developing D Apps for a variety of industries, including finance, healthcare, and gaming. Additionally, I have experience in creating, deploying, and managing token-based crowdfunding systems. I am also knowledgeable in cryptography, consensus mechanisms, and distributed ledger technologies. I have a passion for blockchain technology, and I am always looking for new challenges.
+I’m a full-stack software engineer focused on AI-native development, developer tools, and product engineering. I like building software with AI, building tools that help developers ship faster, and using those tools to build even better tools. Most of my recent work is around AI products, automation, and dev workflows, with blockchain as a secondary area where I also have hands-on experience.
 
 <!--
 ## 🌐 Socials:
