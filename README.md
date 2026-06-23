@@ -1,6 +1,5 @@
 <!--<img width= 100% src="https://pbs.twimg.com/profile_banners/1212696301181136898/1675365272/1500x500">-->
 <!--<img width= 100% src="https://www.emilywrites.co.nz/wp-content/uploads/2018/08/Hire-Me-768x370.png">-->
-<img width= 100% src="https://github.com/kunaldhongade/kunaldhongade/blob/main/hireme.jpg">
 
 # 💫 About Me:
 I’m a full-stack software engineer focused on AI-native development, developer tools, and product engineering. I like building software with AI, building tools that help developers ship faster, and using those tools to build even better tools. Most of my recent work is around AI products, automation, and dev workflows, with blockchain as a secondary area where I also have hands-on experience.
